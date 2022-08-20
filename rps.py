@@ -1,8 +1,5 @@
 import random
-##print("Enter 1 (rock), 2(paper), or 3 (scissors) /n")
-##user = int(input())
 
-opt = ["rock", "paper", "scissors"]
 
 bot = random.randint(1,3)
 play = 1
